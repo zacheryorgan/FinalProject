@@ -1,0 +1,32 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/activity1"
+        android:icon="@drawable/tv1"
+        android:title="Living Room"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/activity2"
+        android:icon="@drawable/kitchen"
+        android:title="Kitchen"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/activity3"
+        android:icon="@drawable/house"
+        android:title="House"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/activity"
+        android:icon="@drawable/automobile"
+        android:title="Living Room"
+        android:visible="true"
+        app:showAsAction="always" />
+
+</menu>
